@@ -1,7 +1,7 @@
 # 👨‍💻	MIXERRULES - Jackson :man_mechanic:
 ---
 ### :pager: [My Discord](https://discord.gg/rHVt5NBrV6) :camera: [My Twitch](https://twitch.tv/MIXERRULES) :iphone: [My Twitter](https://twitter.com/MIXERRULES) 
-### :movie_camera: [My YouTube](www.youtube.com/mixerdagamer) 🌐 [My Website](https://MIXERRULES.Me)  📑 [My Linkden](https://www.linkedin.com/in/jacksontweet/)
+### :movie_camera: [My YouTube](www.youtube.com/mixerdagamer) 🌐 [My Website](https://MIXERRULES.Me) 
 ---
 Hi, I am MIXERRULES aka Jackson. I'm a JavaScript, Node.JS, HTML, And PHP developer. Currently I am focusing on making Node.JS Scripts centered around Plex Media Server webhooks. 
 
